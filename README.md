@@ -1,2 +1,3 @@
-# game-center-python
-Primeiro projeto em Python, duas opções de mini jogos, o clássico forca e um jogo de adivinhe o número
+# Game Center Python
+Projeto realizado pela alura, no qual dei meus primeiros passos em uma nova linguagem, Python.
+Nesse projeto pude desenvolver 2 mini games e um "laucher", para escolher qual dos dois acessar.
